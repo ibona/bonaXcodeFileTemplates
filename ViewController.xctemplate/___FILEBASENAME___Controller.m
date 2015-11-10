@@ -8,7 +8,7 @@
 
 #import "___FILEBASENAME___Controller.h"
 
-@interface ___FILEBASENAME___Controller ()<UITableViewDataSource,UITableViewDelegate>
+@interface ___FILEBASENAME___Controller ()<UITableViewDataSource,UITableViewDelegate,NetDelegate>
 
 @end
 
