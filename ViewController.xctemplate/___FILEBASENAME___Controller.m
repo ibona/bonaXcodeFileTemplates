@@ -26,7 +26,11 @@
 #pragma mark -  3-Delegate
 
 #pragma mark -  4-Private Methods
-
+//初始化数据
+-(void)initData
+{
+    
+}
 //初始化界面
 -(void)initView
 {
@@ -34,7 +38,11 @@
     [self initRightButton:@"完成" andImage:nil];
    
 }
-
+//注册block
+-(void)registerBlock
+{
+    
+}
 #pragma mark -  5-Getters / Setters
 
 @end
