@@ -8,7 +8,7 @@
 
 #import "___FILEBASENAME___Model.h"
 
-@implementation ___FILEBASENAME___Model ()
+@implementation ___FILEBASENAME___Model
 
 
 
